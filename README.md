@@ -4,6 +4,7 @@ ES:  Es un script sencillo que automatiza Tor Proxychains para el uso de ataques
 
 En:  It is a simple script that automates Tor Proxychains for the use of brute force attacks for Instagram
 
+(`!Disclaimer:`) **Only for Ethical purpose,I am not responsible for any damage this may cause.**
 
 **Creado Por:** _Mario_
 
