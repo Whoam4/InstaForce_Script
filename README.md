@@ -30,7 +30,7 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
      Ahora instalamos las dependencias:
       ```bash
      $ bash Install.sh  / ./Install.sh
-     ```bash
+     
    - El Script instalara la dependencia de Tor en caso de no tenerla
 
 3. **Sección de Uso**
