@@ -7,42 +7,34 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
 
 ### Detalles Paso a Paso
 
-1. > **Nota:** El archivo que contiene el Script = InstaCracker_Maario.sh (no se lien)
+## Detalles Paso a Paso
 
+1. **Nota Importante:**
+   - El archivo principal del script es `InstaCracker_Maario.sh` (no te confundas).
 
-   
 2. **Sección de Instalación**
-   - Explicación cómo clonar el repositorio:
-     ```markdown
-     Solo clona este repositorio:
-
-     $git clone https://github.com/Whoam4/InstaForce_Script.git
+   - Para clonar el repositorio, ejecuta el siguiente comando en tu terminal:
+     ```bash
+     $ git clone https://github.com/Whoam4/InstaForce_Script.git
      ```
-      cómo navegar al directorio y ejecutar el script de instalación:
-     ```markdown
-     Ahora ve al directorio clonado y ejecuta el script de instalación:
-     
-     $ cd InstaCracker
-     
-      ```markdown
-     Ahora instalamos las dependencias:
-     $ bash Install.sh  / ./Install.sh
-     
-   - El Script instalara la dependencia de Tor en caso de no tenerla
+
+   - Después de clonar el repositorio, navega al directorio clonado y ejecuta el script de instalación para configurar el entorno:
+     ```bash
+     $ cd InstaForce_Script
+     $ bash Install.sh  # o ./Install.sh si es necesario
+     ```
+
+   - El script instalará las dependencias requeridas, incluyendo la configuración de Tor si no está instalado.
 
 3. **Sección de Uso**
-   - Proporciona instrucciones sobre cómo ejecutar el proyecto:
-     ```markdown
+   - Para ejecutar el proyecto después de la instalación, utiliza el siguiente comando:
      ```bash
-     $ cd mi-proyecto
+     $ cd InstaForce_Script
      $ bash InstaCracker_Maario.sh
      ```
 
 4. **Contribuciones y Licencia**
-   - Anima a otros a contribuir a tu proyecto y proporciona un enlace a la licencia.
-
-### Ejemplo Completo en Markdown
-
-```markdown
+   - ¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor abre un issue o envía un pull request.
+   - Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
 
