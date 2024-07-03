@@ -1,8 +1,8 @@
 # InstaForce_Script
 
-ES:Es un script sencillo que automatiza Tor Proxychains para el uso de ataques de fuerza bruta para Instagram
+ES:  Es un script sencillo que automatiza Tor Proxychains para el uso de ataques de fuerza bruta para Instagram
 
-En:It is a simple script that automates Tor Proxychains for the use of brute force attacks for Instagram
+En:  It is a simple script that automates Tor Proxychains for the use of brute force attacks for Instagram
 
 
 **Creado Por:** _Mario_
