@@ -33,9 +33,14 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
      $ cd InstaCracker
      $ bash InstaCracker_Maario.sh
      ```
-4. **Nota Importante:** Asegúrate de tener permisos de administrador antes de ejecutar el Script
-   **Nota:** Viene con un diccionario de fábrica (passwords passwords.lst)
-   **Nota:** En caso de querer usar otro simplemente copiar y ponerlo en la carpeta del script y seleccionar al usar
+4. ### Notas Importantes:
+
+1. **Nota Importante:** Antes de ejecutar el script, asegúrate de tener permisos de administrador en tu sistema.
+
+2. **Nota:** El script viene con un diccionario predeterminado (`passwords.lst`) para utilizar en los ataques.
+
+3. **Nota:** Si deseas utilizar otro diccionario, simplemente cópialo en la carpeta del script y selecciona la opción correspondiente durante su uso.
+
    
 
 
