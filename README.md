@@ -41,7 +41,7 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
 
 3. **Nota:** Si deseas utilizar otro diccionario, simplemente cópialo en la carpeta del script y selecciona la opción correspondiente durante su uso.
 
-![Interfaz de Usuario](https://github.com/Whoam4/InstaForce_Script/edit/main/README.md)
+![Interfaz de Usuario] (https://github.com/Whoam4/InstaForce_Script/edit/main/README.md)
    
 
 
