@@ -33,8 +33,13 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
      $ cd InstaCracker
      $ bash InstaCracker_Maario.sh
      ```
+4. **Nota Importante:** Asegúrate de tener permisos de administrador antes de ejecutar el Script
+   **Nota:** Viene con un diccionario de fábrica (passwords passwords.lst)
+   **Nota:** En caso de querer usar otro simplemente copiar y ponerlo en la carpeta del script y seleccionar al usar
+   
 
-4. **Contribuciones y Licencia**
+
+5. **Contribuciones y Licencia**
    - ¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor abre un issue o envía un pull request.
    - Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
