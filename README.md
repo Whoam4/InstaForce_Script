@@ -41,9 +41,6 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
 
 3. **Nota:** Si deseas utilizar otro diccionario, simplemente cópialo en la carpeta del script y selecciona la opción correspondiente durante su uso.
 
-![Interfaz de Usuario] (cpasherro.png)
-   
-
 
 5. **Contribuciones y Licencia**
    - ¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor abre un issue o envía un pull request.
