@@ -11,6 +11,7 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
 
 1. **Nota Importante:**
    - El archivo principal del script es `InstaCracker_Maario.sh` (no te confundas).
+   - La instalación es muy sencilla, intuitiva.
 
 2. **Sección de Instalación**
    - Para clonar el repositorio, ejecuta el siguiente comando en tu terminal:
@@ -20,7 +21,7 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
 
    - Después de clonar el repositorio, navega al directorio clonado y ejecuta el script de instalación para configurar el entorno:
      ```bash
-     $ cd InstaForce_Script
+     $ cd InstaCracker
      $ bash Install.sh  # o ./Install.sh si es necesario
      ```
 
@@ -29,7 +30,7 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
 3. **Sección de Uso**
    - Para ejecutar el proyecto después de la instalación, utiliza el siguiente comando:
      ```bash
-     $ cd InstaForce_Script
+     $ cd InstaCracker
      $ bash InstaCracker_Maario.sh
      ```
 
