@@ -15,20 +15,17 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
    - Explicación cómo clonar el repositorio:
      ```markdown
      Solo clona este repositorio:
-     
-     
-     git clone https://github.com/Whoam4/InstaForce_Script.git
+
+     $git clone https://github.com/Whoam4/InstaForce_Script.git
      ```
       cómo navegar al directorio y ejecutar el script de instalación:
      ```markdown
      Ahora ve al directorio clonado y ejecuta el script de instalación:
      
-     ```bash
      $ cd InstaCracker
-     ```
+     
       ```markdown
      Ahora instalamos las dependencias:
-      ```bash
      $ bash Install.sh  / ./Install.sh
      
    - El Script instalara la dependencia de Tor en caso de no tenerla
