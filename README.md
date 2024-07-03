@@ -16,7 +16,7 @@ It is a simple script that automates Tor Proxychains for the use of brute force 
      ```markdown
      Solo clona este repositorio:
      
-     ```bash
+     
      git clone https://github.com/Whoam4/InstaForce_Script.git
      ```
       cómo navegar al directorio y ejecutar el script de instalación:
