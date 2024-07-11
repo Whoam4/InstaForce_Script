@@ -47,7 +47,7 @@ En:  It is a simple script that automates Tor Proxychains for the use of brute f
 
 
 5. **Contribuciones y Licencia**
-   - ¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor abre un issue o envía un pull request.
-   - Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+   - ¡Las contribuciones CON PERMISO son bienvenidas! Si deseas contribuir al proyecto, por favor abre un issue o envía un pull request.
+   
 
 
